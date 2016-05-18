@@ -14,7 +14,7 @@ Check out [my Medium post](https://medium.com/@einancunlu/checkpoints-plugin-for
 1. [Download the Sketch Toolbox plugin manager app](http://sketchtoolbox.com) and install.
 2. Search `Checkpoints ` in the app and install.
 
-### Manuel:
+### Manual Installation:
 Double click the `Checkpoints.sketchplugin` file to install.
 
 # Contact
